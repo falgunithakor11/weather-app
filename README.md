@@ -31,6 +31,13 @@ The app uses the **OpenWeatherMap API** (or whichever API you used) to fetch liv
 ### your current location Result 
 ![current location](./images/ss3.png)
 
+## 🛠️ How to Use
+
+1. **Clone the repository:**
+
+```bash
+git clone https://github.com/falgunithakor11/weather-app.git
+
 
 
 
