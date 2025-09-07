@@ -1,6 +1,3 @@
-# weather-app
-A simple Weather App that fetches real-time weather data using an API and displays temperature, humidity, and conditions for any city.
-
 # Weather App
 
 This is a simple Weather App built with [HTML, CSS, JavaScript] (or React if you used React).
