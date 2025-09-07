@@ -22,11 +22,6 @@ The app uses the **OpenWeatherMap API** (or whichever API you used) to fetch liv
 - Error handling for invalid city names  
 
 ---
-
-## 📷 Screenshots
-
-## 📷 Screenshots
-
 ### Home Screen
 ![Home Screen](./images/ss1.png)
 
